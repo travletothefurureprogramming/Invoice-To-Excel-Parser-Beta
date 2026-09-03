@@ -292,7 +292,7 @@ openpyxl
 ## 1. Clone το Repository
 
 ```bash
-git clone [https://github.com/your-travletothefurureprogramming/Invoice-To-Excel-Parser-Beta.git](https://github.com/travletothefurureprogramming/Invoice-To-Excel-Parser-Beta.git)
+git clone https://github.com/travletothefurureprogramming/Invoice-To-Excel-Parser-Beta.git
 cd Invoice-To-Excel-Parser-Beta
 ```
 
