@@ -292,11 +292,9 @@ openpyxl
 ## 1. Clone το Repository
 
 ```bash
-git clone https://github.com/your-username/PDF-Invoice-Parser.git
-cd PDF-Invoice-Parser
+git clone [https://github.com/your-travletothefurureprogramming/Invoice-To-Excel-Parser-Beta.git](https://github.com/travletothefurureprogramming/Invoice-To-Excel-Parser-Beta.git)
+cd Invoice-To-Excel-Parser-Beta
 ```
-
-> Αν το repository έχει διαφορετικό URL, αντικαταστήστε το παραπάνω URL με το πραγματικό repository.
 
 ---
 
@@ -334,13 +332,9 @@ pip install customtkinter pandas pdfplumber openpyxl
 
 ## 4. Εκκίνηση
 
-Εάν το αρχείο του project ονομάζεται `main.py`:
-
 ```bash
 python main.py
 ```
-
-Η εφαρμογή ξεκινά μέσω της `main()` και ανοίγει το desktop GUI.
 
 ---
 
