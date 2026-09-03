@@ -539,6 +539,17 @@ LICENSE
 
 ---
 
+## 🎨 Icon Attribution
+
+The application icon **“Rescan Document”** is provided by **Icons8**.
+
+* Icon: [Rescan Document](https://icons8.com/icon/84iQU-5TSpyl/rescan-document)
+* Provider: [Icons8](https://icons8.com)
+
+The icon is used under the applicable Icons8 licensing and attribution terms.
+
+---
+
 # ⭐ Project
 
 **Invoice2Excel Pro**
