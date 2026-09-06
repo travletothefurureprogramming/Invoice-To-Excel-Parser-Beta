@@ -1,4 +1,4 @@
-# 📄 Invoice2Excel Pro
+# 📄 Invoice2Excel Pro Beta Edition
 
 > **Automated PDF Invoice Data Extraction Tool**
 >
